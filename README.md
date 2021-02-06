@@ -1,2 +1,2 @@
-# BelajarJQuery
-Belajar JQuery
+# belajarjquery
+belajar jquery
